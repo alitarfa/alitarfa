@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alitarfa
 - 👀 I’m Software engineer, In love with Cloud computing
-- 🌱 I’m currently learning Terrafor & Web 3.0 
+- 🌱 I’m currently learning Terraform & Web 3.0 
 - 📫 How to reach me [linkedin: sudo find alitarfa]
 
 <!---
