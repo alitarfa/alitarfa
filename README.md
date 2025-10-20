@@ -7,14 +7,6 @@ Currently focused on developing **AI-powered tools** that simplify my life
 
 ---
 
-### 🧠 What I Do
-- 💻 **Backend Development** — Spring Boot, NestJS, Node.js  
-- ☁️ **Cloud & Serverless** — AWS Lambda, DynamoDB, API Gateway, S3, CloudWatch  
-- ⚙️ **Frontend Development** — Angular, Next.js, React  
-- 🧩 **Architecture** — Hexagonal, Event-driven, Microservices  
-- 🛠️ **DevOps & Observability** — Docker, Grafana, Loki, ELK, GitHub Actions  
----
-
 ### 📫 Let’s Connect
 - 💼 **LinkedIn:** [sudo find alitarfa](https://www.linkedin.com/in/alitarfa)  
 - 🧠 **GitHub:** [@alitarfa](https://github.com/alitarfa)  
