@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Ali Tarfa
+# 👋 Hey there, I'm Ali TARFA
 
 🚀 **Software Engineer | AWS Serverless Enthusiast | Founder of [Flowcom.ai](https://flowcom.ai)**  
 
